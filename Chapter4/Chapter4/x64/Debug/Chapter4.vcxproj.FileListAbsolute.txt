@@ -1,0 +1,2 @@
+C:\Workspace\ComputerGraphics_OpenGL\Chapter4\x64\Debug\freeglutd.dll
+C:\Workspace\ComputerGraphics_OpenGL\Chapter4\Chapter4\x64\Debug\Chapter4.vcxproj.Up2Date

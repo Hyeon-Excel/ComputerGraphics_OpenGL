@@ -1,0 +1,35 @@
+﻿  Project_1.c
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(10,26): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(12,26): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(15,28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(16,28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(86,18): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(86,23): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(86,28): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(88,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  [CG]Project I.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\x64\Debug\[CG]Project I.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  Set-Content : 매개 변수 이름 'Encoding'과(와) 일치하는 매개 변수를 찾을 수 없습니다.
+  위치 C:\Workspace\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:12 문자:49
+  +     Set-Content -Path $copiedFilesLog -Value "" -Encoding UTF8
+  +                                                 ~~~~~~~~~
+      + CategoryInfo          : InvalidArgument: (:) [Set-Content], ParameterBindingException
+      + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.PowerShell.Commands.SetContentCommand
+   
+  Split-Path : 'Path' 매개 변수가 null이므로 인수를 해당 매개 변수에 바인딩할 수 없습니다.
+  위치 C:\Workspace\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:76 문자:39
+  +     $baseTargetBinaryDir = Split-Path $baseBinaryPath -parent
+  +                                       ~~~~~~~~~~~~~~~
+      + CategoryInfo          : InvalidData: (:) [Split-Path], ParameterBindingValidationException
+      + FullyQualifiedErrorId : ParameterArgumentValidationErrorNullNotAllowed,Microsoft.PowerShell.Commands.SplitPathCo 
+     mmand
+   
+  Split-Path : 'Path' 매개 변수가 null이므로 인수를 해당 매개 변수에 바인딩할 수 없습니다.
+  위치 C:\Workspace\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:94 문자:35
+  +     $targetBinaryDir = Split-Path $targetBinaryPath -parent
+  +                                   ~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : InvalidData: (:) [Split-Path], ParameterBindingValidationException
+      + FullyQualifiedErrorId : ParameterArgumentValidationErrorNullNotAllowed,Microsoft.PowerShell.Commands.SplitPathCo 
+     mmand
+   

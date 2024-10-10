@@ -1,5 +1,6 @@
-﻿  5-14.c
-C:\Workspace\ComputerGraphics_OpenGL\Chapter5\5-14.c(37,21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+﻿  5-13.c
+C:\Workspace\ComputerGraphics_OpenGL\Chapter5\5-13.c(16,5): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Chapter5\5-13.c(60,21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
   Chapter5.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\Chapter5\x64\Debug\Chapter5.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.

@@ -1,12 +1,17 @@
 ﻿  Project_1.c
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(10,26): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(12,26): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(15,28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(16,28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(86,18): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(86,23): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(86,28): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
-C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(88,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(10,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(12,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(15,31): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(16,31): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(75,24): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(75,30): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(76,22): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(84,32): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(84,38): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(202,21): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(202,26): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(202,31): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\Project_1.c(204,21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
   [CG]Project I.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\[CG]Project I\x64\Debug\[CG]Project I.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.

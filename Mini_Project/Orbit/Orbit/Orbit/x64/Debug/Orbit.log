@@ -1,0 +1,14 @@
+﻿  Orbit.c
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(9,23): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(9,28): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(13,21): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(15,23): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(15,28): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(19,21): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(20,18): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(20,23): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(20,28): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\Orbit.c(52,21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  Orbit.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit\x64\Debug\Orbit.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

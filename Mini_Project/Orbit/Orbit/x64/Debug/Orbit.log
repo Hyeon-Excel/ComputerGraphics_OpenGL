@@ -1,0 +1,15 @@
+﻿  Orbit.c
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(12,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(91,21): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(112,21): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(61,31): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(73,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(77,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(116,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(135,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(136,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(160,21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\Orbit.c(161,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  Orbit.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\Orbit\x64\Debug\Orbit.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

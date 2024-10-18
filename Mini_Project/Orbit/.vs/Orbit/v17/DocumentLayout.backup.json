@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\Orbit\\",
+  "WorkspaceRootPath": "C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF3687A3-AC71-43FA-B3F7-2766FF49F5E5}|Orbit.vcxproj|C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\Orbit\\Orbit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BF3687A3-AC71-43FA-B3F7-2766FF49F5E5}|Orbit.vcxproj|C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\Orbit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BF3687A3-AC71-43FA-B3F7-2766FF49F5E5}|Orbit.vcxproj|solutionrelative:Orbit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Orbit.c",
-              "DocumentMoniker": "C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\Orbit\\Orbit.c",
+              "DocumentMoniker": "C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\Orbit.c",
               "RelativeDocumentMoniker": "Orbit.c",
-              "ToolTip": "C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\Orbit\\Orbit.c",
+              "ToolTip": "C:\\Workspace\\ComputerGraphics_OpenGL\\Mini_Project\\Orbit\\Orbit.c",
               "RelativeToolTip": "Orbit.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-11T13:56:40.983Z",
               "EditorCaption": ""

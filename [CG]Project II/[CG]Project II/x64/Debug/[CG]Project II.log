@@ -1,0 +1,30 @@
+﻿  project_2.c
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project II\project_2.c(74,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project II\project_2.c(137,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Workspace\ComputerGraphics_OpenGL\[CG]Project II\project_2.c(146,21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  [CG]Project II.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\[CG]Project II\x64\Debug\[CG]Project II.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  Set-Content : 매개 변수 이름 'Encoding'과(와) 일치하는 매개 변수를 찾을 수 없습니다.
+  위치 C:\Workspace\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:12 문자:49
+  +     Set-Content -Path $copiedFilesLog -Value "" -Encoding UTF8
+  +                                                 ~~~~~~~~~
+      + CategoryInfo          : InvalidArgument: (:) [Set-Content], ParameterBindingException
+      + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.PowerShell.Commands.SetContentCommand
+   
+  Split-Path : 'Path' 매개 변수가 null이므로 인수를 해당 매개 변수에 바인딩할 수 없습니다.
+  위치 C:\Workspace\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:76 문자:39
+  +     $baseTargetBinaryDir = Split-Path $baseBinaryPath -parent
+  +                                       ~~~~~~~~~~~~~~~
+      + CategoryInfo          : InvalidData: (:) [Split-Path], ParameterBindingValidationException
+      + FullyQualifiedErrorId : ParameterArgumentValidationErrorNullNotAllowed,Microsoft.PowerShell.Commands.SplitPathCo 
+     mmand
+   
+  Split-Path : 'Path' 매개 변수가 null이므로 인수를 해당 매개 변수에 바인딩할 수 없습니다.
+  위치 C:\Workspace\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:94 문자:35
+  +     $targetBinaryDir = Split-Path $targetBinaryPath -parent
+  +                                   ~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : InvalidData: (:) [Split-Path], ParameterBindingValidationException
+      + FullyQualifiedErrorId : ParameterArgumentValidationErrorNullNotAllowed,Microsoft.PowerShell.Commands.SplitPathCo 
+     mmand
+   

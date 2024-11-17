@@ -1,0 +1,2 @@
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\PyramidDrawEvent\x64\Debug\freeglutd.dll
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\PyramidDrawEvent\PyramidDrawEvent\x64\Debug\PyramidD.CF34E2FF.Up2Date

@@ -1,0 +1,6 @@
+﻿  3DShape.c
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\PyramidDrawEvent\3DShape.c(146,21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\PyramidDrawEvent\3DShape.c(147,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  PyramidDrawEvent.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\Mini_Project\PyramidDrawEvent\x64\Debug\PyramidDrawEvent.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

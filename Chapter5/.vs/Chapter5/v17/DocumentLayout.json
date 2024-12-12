@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Workspace\\ComputerGraphics_OpenGL\\Chapter5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB6A4DEB-8D6F-41D9-9155-4246057E2295}|Chapter5.vcxproj|C:\\Workspace\\ComputerGraphics_OpenGL\\Chapter5\\5-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB6A4DEB-8D6F-41D9-9155-4246057E2295}|Chapter5.vcxproj|solutionrelative:5-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB6A4DEB-8D6F-41D9-9155-4246057E2295}|Chapter5.vcxproj|C:\\Workspace\\ComputerGraphics_OpenGL\\Chapter5\\5-14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB6A4DEB-8D6F-41D9-9155-4246057E2295}|Chapter5.vcxproj|solutionrelative:5-14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "5-2.c",
+              "DocumentMoniker": "C:\\Workspace\\ComputerGraphics_OpenGL\\Chapter5\\5-2.c",
+              "RelativeDocumentMoniker": "5-2.c",
+              "ToolTip": "C:\\Workspace\\ComputerGraphics_OpenGL\\Chapter5\\5-2.c",
+              "RelativeToolTip": "5-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-11T08:57:40.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "5-14.c",
               "DocumentMoniker": "C:\\Workspace\\ComputerGraphics_OpenGL\\Chapter5\\5-14.c",
               "RelativeDocumentMoniker": "5-14.c",

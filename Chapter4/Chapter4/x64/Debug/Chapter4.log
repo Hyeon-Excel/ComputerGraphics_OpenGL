@@ -1,5 +1,5 @@
 ﻿  4-7.c
-C:\Workspace\ComputerGraphics_OpenGL\Chapter4\4-7.c(18,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+C:\Workspace\ComputerGraphics_OpenGL\Chapter4\4-7.c(17,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
   Chapter4.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\Chapter4\x64\Debug\Chapter4.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.

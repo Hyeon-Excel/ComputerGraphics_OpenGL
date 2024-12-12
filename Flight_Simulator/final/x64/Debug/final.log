@@ -1,0 +1,59 @@
+﻿  main.cpp
+C:\Workspace\ComputerGraphics_OpenGL\final\main.cpp(115,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\final\main.cpp(115,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\final\main.cpp(119,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\final\main.cpp(123,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  missile.cpp
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(11,10): error C2084: 'Missile::Missile(Point3,Vector3,float)' 함수에 이미 본문이 있습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(47,5):
+      'Missile::Missile'의 이전 정의를 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(16,15): error C2511: 'void Missile::updatePosition(float)': 오버로드된 멤버 함수가 'Missile'에 없습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(39,7):
+      'Missile' 선언을 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(17,10): error C2597: 비정적 멤버 'Missile::isActive'에 대한 참조가 잘못되었습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(44,10):
+      'Missile::isActive' 선언을 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(18,9): error C2352: 'Missile::updateParticles': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(103,10):
+      'Missile::updateParticles' 선언을 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(28,9): error C2660: 'Missile::checkCollision': 함수는 0개의 인수를 사용하지 않습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(87,10):
+      'Missile::checkCollision' 선언을 참조하십시오.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(28,9):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(29,9): error C2597: 비정적 멤버 'Missile::isActive'에 대한 참조가 잘못되었습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(44,10):
+      'Missile::isActive' 선언을 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(30,9): error C2352: 'Missile::createParticles': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(92,10):
+      'Missile::createParticles' 선언을 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(34,15): error C2084: 'void Missile::draw(void) const' 함수에 이미 본문이 있습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(70,10):
+      'Missile::draw'의 이전 정의를 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(50,15): error C2511: 'bool Missile::checkCollision(void)': 오버로드된 멤버 함수가 'Missile'에 없습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(39,7):
+      'Missile' 선언을 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(51,35): error C2660: 'Terrain::getHeight': 함수는 1개의 인수를 사용하지 않습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\terrain.h(29,13):
+      'Terrain::getHeight' 선언을 참조하십시오.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(51,35):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(55,15): error C2084: 'void Missile::createParticles(void)' 함수에 이미 본문이 있습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(92,10):
+      'Missile::createParticles'의 이전 정의를 참조하십시오.
+  
+C:\Workspace\ComputerGraphics_OpenGL\final\missile.cpp(66,15): error C2084: 'void Missile::updateParticles(float)' 함수에 이미 본문이 있습니다.
+      C:\Workspace\ComputerGraphics_OpenGL\final\missile.h(103,10):
+      'Missile::updateParticles'의 이전 정의를 참조하십시오.
+  
+  코드를 생성하고 있습니다...

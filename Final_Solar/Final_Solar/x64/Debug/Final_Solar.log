@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Workspace\ComputerGraphics_OpenGL\Final_Solar\main.cpp(86,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Final_Solar\main.cpp(86,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Final_Solar\main.cpp(86,43): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Final_Solar\main.cpp(118,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Final_Solar\main.cpp(130,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Workspace\ComputerGraphics_OpenGL\Final_Solar\main.cpp(163,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Final_Solar.vcxproj -> C:\Workspace\ComputerGraphics_OpenGL\Final_Solar\x64\Debug\Final_Solar.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
